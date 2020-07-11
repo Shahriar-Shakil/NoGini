@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NoGini/static/css/main.34de6062.chunk.css",
+    "main.js": "/NoGini/static/js/main.3303dbaf.chunk.js",
+    "main.js.map": "/NoGini/static/js/main.3303dbaf.chunk.js.map",
+    "runtime-main.js": "/NoGini/static/js/runtime-main.4a816e3e.js",
+    "runtime-main.js.map": "/NoGini/static/js/runtime-main.4a816e3e.js.map",
+    "static/js/2.bcd77ea1.chunk.js": "/NoGini/static/js/2.bcd77ea1.chunk.js",
+    "static/js/2.bcd77ea1.chunk.js.map": "/NoGini/static/js/2.bcd77ea1.chunk.js.map",
+    "index.html": "/NoGini/index.html",
+    "precache-manifest.8c6302571c2c67f6c73704f177fd2263.js": "/NoGini/precache-manifest.8c6302571c2c67f6c73704f177fd2263.js",
+    "service-worker.js": "/NoGini/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/NoGini/static/css/main.34de6062.chunk.css.map"
+  }
+}
